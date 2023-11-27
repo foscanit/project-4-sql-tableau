@@ -1,0 +1,195 @@
+country,country_long,region,continent,latitude,longitude,rural_land,urban_land,population,rural_population,urban_population,democracy_score,democracy_type
+Afghanistan,Islamic State of Afghanistan,Southern Asia,Asia,33.0,65.0,636173.0,3993.84,41128771,30181937,10946834,2.97,Authoritarian
+Albania,Republic of Albania,Southern Europe,Europe,41.0,20.0,27331.6,827.694,2775634,1004807,1770827,5.98,Hybrid regime
+Algeria,People's Democratic Republic of Algeria,Northern Africa,Africa,28.0,3.0,2305480.0,9357.1,44903225,11328186,33575039,3.5,Authoritarian
+Andorra,Principality of Andorra,Southern Europe,Europe,42.5,1.5,409.497,30.9358,79824,9730,70094,0.0,Unknown
+Angola,People's Republic of Angola,Middle Africa,Africa,-12.5,18.5,1251000.0,2991.35,35588987,11359649,24229338,3.62,Authoritarian
+Antigua and Barbuda,Antigua and Barbuda,Caribbean,Americas,17.05,-61.8,396.335,31.8633,93763,70935,22828,0.0,Unknown
+Argentina,Argentine Republic,South America,Americas,-34.0,-64.0,2735390.0,11432.7,46234830,3538352,42696478,7.02,Flawed democracy
+Armenia,Republic of Armenia,Western Asia,Asia,40.0,45.0,27342.2,922.335,2780469,1012841,1767628,4.79,Hybrid regime
+Australia,Commonwealth of Australia,Australia and New Zealand,Oceania,-27.0,133.0,7650420.0,11946.0,25978935,3510274,22468661,9.09,Full democracy
+Austria,Republic of Austria,Western Europe,Europe,47.33333333,13.33333333,80030.9,2973.71,9042528,3684288,5358240,8.29,Full democracy
+Azerbaijan,Republic of Azerbaijan,Western Asia,Asia,40.5,47.5,82218.7,2589.86,10175016,4357959,5817057,2.65,Authoritarian
+Bahrain,Kingdom of Bahrain,Western Asia,Asia,26.0,50.55,335.707,330.292,1472233,151007,1321226,2.71,Authoritarian
+Bangladesh,People's Republic of Bangladesh,Southern Asia,Asia,24.0,90.0,79328.9,56970.0,171186372,103206552,67979820,5.57,Hybrid regime
+Barbados,Barbados,Caribbean,Americas,13.16666666,-59.53333333,248.527,187.588,281635,193416,88219,0.0,Unknown
+Belarus,Republic of Belarus,Eastern Europe,Europe,53.0,28.0,201456.0,2882.6,9208701,1811720,7396981,3.13,Authoritarian
+Belgium,Kingdom of Belgium,Western Europe,Europe,50.83333333,4.0,22780.5,7730.88,11669446,215535,11453911,7.78,Flawed democracy
+Belize,Belize,Central America,Americas,17.25,-88.75,21708.4,122.9,405272,217242,188030,0.0,Unknown
+Benin,Republic of Benin,Western Africa,Africa,9.5,2.25,113691.0,2005.91,13352864,6738656,6614208,5.74,Hybrid regime
+Bhutan,Kingdom of Bhutan,Southern Asia,Asia,27.5,90.5,39040.7,28.6028,782455,440632,341823,5.3,Hybrid regime
+Bolivia,Plurinational State of Bolivia,South America,Americas,-17.0,-65.0,1059510.0,1767.52,12224110,3565773,8658337,5.7,Hybrid regime
+Bosnia and Herzegovina,Bosnia and Herzegovina,Southern Europe,Europe,44.0,18.0,49134.7,1641.93,3233526,1621904,1611622,4.98,Hybrid regime
+Botswana,Republic of Botswana,Southern Africa,Africa,-22.0,24.0,572887.0,804.346,2630296,730591,1899705,7.81,Flawed democracy
+Brazil,Federative Republic of Brazil,South America,Americas,-10.0,-55.0,8385500.0,45853.3,215313498,26795765,188517733,6.97,Flawed democracy
+Brunei,Brunei Darussalam,South-Eastern Asia,Asia,4.5,114.66666666,5571.88,199.172,449002,94946,354056,0.0,Unknown
+Bulgaria,Republic of Bulgaria,Eastern Europe,Europe,43.0,25.0,108914.0,2109.34,6465097,1528155,4936942,7.03,Flawed democracy
+Burkina Faso,Burkina Faso,Western Africa,Africa,13.0,-2.0,273918.0,1599.3,22673762,15446047,7227715,4.75,Hybrid regime
+Burundi,Republic of Burundi,Eastern Africa,Africa,-3.5,30.0,24150.6,887.842,12889576,11031286,1858290,2.33,Authoritarian
+Cabo Verde,Republic of Cabo Verde,Western Africa,Africa,16.0,-24.0,4043.85,59.5543,593149,192507,400642,7.88,Flawed democracy
+Cambodia,Kingdom of Cambodia,South-Eastern Asia,Asia,13.0,105.0,176181.0,1838.75,16767842,12556766,4211076,3.59,Authoritarian
+Cameroon,Republic of Cameroon,Middle Africa,Africa,6.0,12.0,463837.0,2352.11,27914536,11519492,16395044,3.28,Authoritarian
+Canada,Canada,Northern America,Americas,60.0,-95.0,9197140.0,13983.1,38929902,7103929,31825973,9.15,Full democracy
+Central African Republic,Central African Republic,Middle Africa,Africa,7.0,21.0,622165.0,535.376,5579144,3173417,2405727,1.52,Authoritarian
+Chad,Republic of Chad,Middle Africa,Africa,15.0,19.0,1272920.0,948.824,17723315,13458554,4264761,1.61,Authoritarian
+Chile,Republic of Chile,South America,Americas,-30.0,-71.0,723594.0,3579.67,19603733,2369699,17234034,7.97,Flawed democracy
+China,People's Republic of China,Eastern Asia,Asia,35.0,105.0,8723720.0,522345.0,1412175000,514596570,897578430,3.32,Authoritarian
+Colombia,Republic of Colombia,South America,Americas,4.0,-72.0,1127200.0,5114.56,51874024,9311387,42562637,6.96,Flawed democracy
+Comoros,Union of the Comoros,Eastern Africa,Africa,-12.16666666,44.25,1534.77,142.534,836774,586880,249894,3.71,Authoritarian
+Congo,Republic of Congo,Middle Africa,Africa,-1.0,15.0,340341.0,420.263,5970424,1866593,4103831,3.31,Authoritarian
+Costa Rica,Republic of Costa Rica,Central America,Americas,10.0,-84.0,49804.7,1475.94,5180829,930373,4250456,8.07,Full democracy
+Côte d'Ivoire,Republic of Côte d'Ivoire,Western Africa,Africa,8.0,-5.0,318024.0,2981.96,28160542,13330919,14829623,4.15,Hybrid regime
+Croatia,Republic of Croatia,Southern Europe,Europe,45.16666666,15.5,54777.1,1648.41,3854000,1610240,2243760,6.57,Flawed democracy
+Cuba,Republic of Cuba,Caribbean,Americas,21.5,-80.0,106665.0,3053.18,11212191,2533843,8678348,3.0,Authoritarian
+Cyprus,Republic of Cyprus,Southern Europe,Europe,35.0,33.0,8747.63,518.98,1251488,414105,837383,7.59,Flawed democracy
+Czech Republic,Czech Republic,Eastern Europe,Europe,49.75,15.5,73926.2,4023.4,10526073,2697096,7828977,7.69,Flawed democracy
+Dem. People's Rep. Korea,Democratic People's Republic of Korea,Eastern Asia,Asia,40.0,127.0,119025.0,2678.34,26069416,9667582,16401834,1.08,Authoritarian
+Dem. Rep. Congo,Democratic Republic of the Congo,Middle Africa,Africa,0.0,25.0,2295900.0,7232.35,99010212,52636799,46373413,1.49,Authoritarian
+Denmark,Kingdom of Denmark,Northern Europe,Europe,56.0,10.0,40365.6,2235.49,5903037,686700,5216337,9.22,Full democracy
+Djibouti,Republic of Djibouti,Eastern Africa,Africa,11.5,43.0,21571.8,51.2502,1120849,242328,878521,2.87,Authoritarian
+Dominica,Commonwealth of Dominica,Caribbean,Americas,15.41666666,-61.33333333,735.839,20.9994,72737,20585,52152,0.0,Unknown
+Dominican Republic,Dominican Republic,Caribbean,Americas,19.0,-70.66666666,45389.6,2504.49,11228821,1813679,9415142,6.54,Flawed democracy
+Ecuador,Republic of Ecuador,South America,Americas,-2.0,-77.5,253214.0,2293.85,18001000,6377754,11623246,6.27,Flawed democracy
+Egypt,Arab Republic of Egypt,Northern Africa,Africa,27.0,30.0,971206.0,18918.0,110990103,63300985,47689118,3.36,Authoritarian
+El Salvador,Republic of El Salvador,Central America,Americas,13.83333333,-88.91666666,18676.4,1559.87,6336392,1598862,4737530,5.96,Hybrid regime
+Equatorial Guinea,Republic of Equatorial Guinea,Middle Africa,Africa,2.0,10.0,26898.2,136.734,1674908,435309,1239599,1.92,Authoritarian
+Eritrea,State of Eritrea,Eastern Africa,Africa,15.0,39.0,120001.0,331.192,3684032,2113713,1570319,2.37,Authoritarian
+Estonia,Republic of Estonia,Northern Europe,Europe,59.0,26.0,42656.6,449.972,1344768,408688,936080,7.97,Flawed democracy
+Eswatini,Kingdom of Eswatini,Southern Africa,Africa,-26.5,31.5,17073.2,177.919,1201670,906348,295322,3.03,Authoritarian
+Ethiopia,Federal Democratic Republic of Ethiopia,Eastern Africa,Africa,8.0,38.0,1124620.0,5760.66,123379924,95420799,27959125,3.35,Authoritarian
+Fiji,Republic of Fiji,Melanesia,Oceania,-18.0,175.0,18883.8,117.257,929766,388373,541393,5.85,Hybrid regime
+Finland,Republic of Finland,Northern Europe,Europe,64.0,26.0,302766.0,2242.66,5556880,795690,4761190,9.14,Full democracy
+France,French Republic,Western Europe,Europe,46.0,2.0,522936.0,23030.7,67935660,12561983,55373677,7.8,Flawed democracy
+Gabon,Gabonese Republic,Middle Africa,Africa,-1.0,11.75,263338.0,311.6,2388992,221340,2167652,3.61,Authoritarian
+Georgia,Georgia,Western Asia,Asia,42.0,43.5,68068.7,1130.16,3712502,1473975,2238527,5.5,Hybrid regime
+Germany,Federal Republic of Germany,Western Europe,Europe,51.0,9.0,316383.0,36996.4,84079811,18793519,65286292,8.68,Full democracy
+Ghana,Republic of Ghana,Western Africa,Africa,8.0,-2.0,227830.0,5559.55,33475870,13853989,19621881,6.63,Flawed democracy
+Greece,Hellenic Republic,Southern Europe,Europe,39.0,22.0,128796.0,2748.66,10566531,2075584,8490947,7.29,Flawed democracy
+Grenada,Grenada,Caribbean,Americas,12.11666666,-61.66666666,291.375,68.5197,125438,79192,46246,0.0,Unknown
+Guatemala,Republic of Guatemala,Central America,Americas,15.5,-90.25,105527.0,2900.62,17357886,8216182,9141704,5.6,Hybrid regime
+Guinea,Republic of Guinea,Western Africa,Africa,11.0,-10.0,244206.0,1390.66,13859341,8638804,5220537,3.14,Authoritarian
+Guinea-Bissau,Republic of Guinea-Bissau,Western Africa,Africa,12.0,-15.0,33293.4,196.264,2105566,1157198,948368,1.98,Authoritarian
+Guyana,Co-operative Republic of Guyana,South America,Americas,5.0,-59.0,209904.0,165.726,808726,590192,218534,6.67,Flawed democracy
+Haiti,Republic of Haiti,Caribbean,Americas,19.0,-72.41666666,25688.1,1326.1,11584996,4770701,6814295,4.91,Hybrid regime
+Honduras,Republic of Honduras,Central America,Americas,15.0,-86.5,110411.0,1576.93,10432860,4214875,6217985,5.63,Hybrid regime
+Hungary,Hungary,Eastern Europe,Europe,47.0,20.0,87565.2,3928.83,9683505,2657928,7025577,6.63,Flawed democracy
+Iceland,Republic of Iceland,Northern Europe,Europe,65.0,-18.0,88792.0,107.56,381900,22945,358955,9.58,Full democracy
+India,Republic of India,Southern Asia,Asia,20.0,77.0,2956470.0,171839.0,1417173173,908804812,508368361,7.23,Flawed democracy
+Indonesia,Republic of Indonesia,South-Eastern Asia,Asia,-5.0,120.0,1820840.0,67755.1,275501339,115892393,159608946,6.39,Flawed democracy
+Iran,Islamic Republic of Iran,Southern Asia,Asia,32.0,53.0,1601050.0,16217.1,88550570,20537534,68013036,2.45,Authoritarian
+Iraq,Republic of Iraq,Western Asia,Asia,33.0,44.0,434270.0,6572.97,44496122,12746359,31749763,4.06,Hybrid regime
+Ireland,Ireland,Northern Europe,Europe,53.0,-8.0,67698.2,1261.39,5086988,1822006,3264982,9.15,Full democracy
+Israel,State of Israel,Western Asia,Asia,31.5,34.75,19195.2,2743.73,9550600,691177,8859423,7.79,Flawed democracy
+Italy,Italian Republic,Southern Europe,Europe,42.83333333,12.83333333,277071.0,20916.7,58856847,16681796,42175051,7.71,Flawed democracy
+Jamaica,Jamaica,Caribbean,Americas,18.25,-77.5,10006.2,1022.33,2827377,1215546,1611831,7.02,Flawed democracy
+Japan,Japan,Eastern Asia,Asia,36.0,138.0,316736.0,53452.1,125124989,10066305,115058684,7.99,Flawed democracy
+Jordan,Hashemite Kingdom of Jordan,Western Asia,Asia,31.0,36.0,86673.4,2170.09,11285869,922394,10363475,3.93,Authoritarian
+Kazakhstan,Republic of Kazakhstan,Central Asia,Asia,48.0,68.0,2636600.0,6363.39,19621972,8243190,11378782,2.94,Authoritarian
+Kenya,Republic of Kenya,Eastern Africa,Africa,1.0,38.0,579896.0,3416.84,54027487,38358435,15669052,5.11,Hybrid regime
+Kiribati,Republic of Kiribati,Micronesia,Oceania,1.41666666,173.0,907.557,5.18751,131232,56354,74878,0.0,Unknown
+Korea,Republic of Korea,Eastern Asia,Asia,37.0,127.5,86793.4,12473.4,51628117,9588890,42039227,8.0,Flawed democracy
+Kuwait,State of Kuwait,Western Asia,Asia,29.5,45.75,16647.7,772.942,4268873,0,4268873,3.85,Authoritarian
+Kyrgyz Republic,Kyrgyz Republic,Central Asia,Asia,41.0,75.0,186901.0,2136.34,6803300,4254716,2548584,5.11,Hybrid regime
+Lao PDR,Lao People's Democratic Republic,South-Eastern Asia,Asia,18.0,105.0,228354.0,542.173,7529475,4698995,2830480,2.37,Authoritarian
+Latvia,Republic of Latvia,Northern Europe,Europe,57.0,25.0,62761.7,676.268,1883379,592511,1290868,7.38,Flawed democracy
+Lebanon,Lebanese Republic,Western Asia,Asia,33.83333333,35.83333333,8546.2,1871.97,5489739,589488,4900251,4.63,Hybrid regime
+Lesotho,Kingdom of Lesotho,Southern Africa,Africa,-29.5,28.5,30172.3,249.942,2305825,1615392,690433,6.64,Flawed democracy
+Liberia,Republic of Liberia,Western Africa,Africa,6.5,-9.5,95557.6,652.556,5302681,2488813,2813868,5.35,Hybrid regime
+Libya,Socialist People's Libyan Arab Jamahiriya,Northern Africa,Africa,25.0,17.0,1619020.0,2958.15,6812341,1273772,5538569,2.19,Authoritarian
+Liechtenstein,Principality of Liechtenstein,Western Europe,Europe,47.26666666,9.53333333,117.014,38.3559,39327,33610,5717,0.0,Unknown
+Lithuania,Republic of Lithuania,Northern Europe,Europe,56.0,24.0,62585.3,1185.85,2833000,893387,1939613,7.5,Flawed democracy
+Luxembourg,Grand Duchy of Luxembourg,Western Europe,Europe,49.75,6.16666666,2247.08,283.498,650774,52836,597938,8.81,Full democracy
+Madagascar,Republic of Madagascar,Eastern Africa,Africa,-20.0,47.0,588613.0,1660.59,29611714,17801970,11809744,5.22,Hybrid regime
+Malawi,Republic of Malawi,Eastern Africa,Africa,-13.5,34.0,93702.8,770.861,20405317,16736441,3668876,5.49,Hybrid regime
+Malaysia,Malaysia,South-Eastern Asia,Asia,2.5,112.5,318198.0,11417.6,33938221,7393781,26544440,6.88,Flawed democracy
+Maldives,Republic of Maldives,Southern Asia,Asia,3.25,73.0,259.654,14.3545,523787,306227,217560,0.0,Unknown
+Mali,Republic of Mali,Western Africa,Africa,17.0,-4.0,1251580.0,1505.02,22593590,12327741,10265849,5.41,Hybrid regime
+Malta,Republic of Malta,Southern Europe,Europe,35.83333333,14.58333333,150.897,173.523,523417,26825,496592,8.21,Full democracy
+Marshall Islands,Republic of the Marshall Islands,Micronesia,Oceania,9.0,168.0,271.884,8.61805,41569,8929,32640,0.0,Unknown
+Mauritania,Islamic Republic of Mauritania,Western Africa,Africa,20.0,-12.0,1045550.0,373.539,4736139,2040187,2695952,3.82,Authoritarian
+Mauritius,Republic of Mauritius,Eastern Africa,Africa,-20.28333333,57.55,1523.76,475.804,1262523,747287,515236,8.22,Full democracy
+Mexico,United Mexican States,Central America,Americas,23.0,-102.0,1920990.0,28588.1,127504125,23843271,103660854,6.19,Flawed democracy
+Micronesia,Federated States of Micronesia,Micronesia,Oceania,6.91666666,158.25,757.746,7.5193,114164,87659,26505,0.0,Unknown
+Moldova,Republic of Moldova,Eastern Europe,Europe,47.0,29.0,31803.7,1576.1,2592477,1473227,1119250,5.85,Hybrid regime
+Monaco,Principality of Monaco,Western Europe,Europe,43.73333333,7.4,0.0349545,2.77653,36469,0,36469,0.0,Unknown
+Mongolia,Mongolia,Eastern Asia,Asia,46.0,105.0,1549430.0,354.978,3398366,1055872,2342494,6.5,Flawed democracy
+Montenegro,Montenegro,Southern Europe,Europe,42.5,19.3,13146.8,294.649,616159,196160,419999,5.74,Hybrid regime
+Morocco,Kingdom of Morocco,Northern Africa,Africa,32.0,-5.0,409516.0,4621.35,37457971,13261620,24196351,4.99,Hybrid regime
+Mozambique,Republic of Mozambique,Eastern Africa,Africa,-18.25,35.0,775002.0,2943.2,32969518,20379448,12590070,3.85,Authoritarian
+Myanmar,Republic of the Union of Myanmar,South-Eastern Asia,Asia,22.0,98.0,660980.0,5783.53,54179306,36965999,17213307,3.83,Authoritarian
+Namibia,Republic of Namibia,Southern Africa,Africa,-22.0,17.0,827174.0,342.318,2567012,1181955,1385057,6.25,Flawed democracy
+Nauru,Republic of Nauru,Micronesia,Oceania,-0.53333333,166.91666666,15.0595,6.98028,12668,0,12668,0.0,Unknown
+Nepal,Nepal,Southern Asia,Asia,28.0,84.0,140133.0,3041.75,30547580,23994819,6552761,5.18,Hybrid regime
+Netherlands,Kingdom of the Netherlands,Western Europe,Europe,52.5,5.75,26211.9,8322.49,17703090,1259398,16443692,8.89,Full democracy
+New Zealand,New Zealand,Australia and New Zealand,Oceania,-41.0,174.0,270549.0,1970.29,5124100,672077,4452023,9.26,Full democracy
+Nicaragua,Republic of Nicaragua,Central America,Americas,13.0,-85.0,118298.0,992.829,6948392,2810208,4138184,3.63,Authoritarian
+Niger,Republic of Niger,Western Africa,Africa,16.0,8.0,1187980.0,1313.95,26207977,21780401,4427576,3.76,Authoritarian
+Nigeria,Federal Republic of Nigeria,Western Africa,Africa,10.0,8.0,882025.0,25189.9,218541212,101575770,116965442,4.44,Hybrid regime
+North Macedonia,Republic of North Macedonia,Southern Europe,Europe,41.83333333,22.0,23681.0,701.268,2057679,841220,1216459,5.87,Hybrid regime
+Norway,Kingdom of Norway,Northern Europe,Europe,62.0,10.0,306188.0,2007.78,5457127,891476,4565651,9.87,Full democracy
+Oman,Sultanate of Oman,Western Asia,Asia,21.0,57.0,309152.0,1500.49,4576298,560597,4015701,3.04,Authoritarian
+Pakistan,Islamic Republic of Pakistan,Southern Asia,Asia,30.0,70.0,821721.0,39082.0,235824862,146845783,88979079,4.17,Hybrid regime
+Palau,Republic of Palau,Micronesia,Oceania,7.5,134.5,480.966,4.8932,18055,3258,14797,0.0,Unknown
+Panama,Republic of Panama,Central America,Americas,9.0,-80.0,73613.8,1070.98,4408581,1360444,3048137,7.05,Flawed democracy
+Papua New Guinea,The Independent State of Papua New Guinea,Melanesia,Oceania,-6.0,147.0,462122.0,415.398,10142619,8765048,1377571,6.03,Flawed democracy
+Paraguay,Republic of Paraguay,South America,Americas,-23.0,-58.0,396431.0,1320.83,6780744,2521216,4259528,6.24,Flawed democracy
+Peru,Republic of Peru,South America,Americas,-10.0,-76.0,1281200.0,3457.87,34049588,7249838,26799750,6.6,Flawed democracy
+Philippines,Republic of the Philippines,South-Eastern Asia,Asia,13.0,122.0,282120.0,12151.5,115559009,60117263,55441746,6.71,Flawed democracy
+Poland,Republic of Poland,Eastern Europe,Europe,52.0,20.0,293194.0,14773.8,37561599,14974307,22587292,6.67,Flawed democracy
+Portugal,Portuguese Republic,Southern Europe,Europe,39.5,-8.0,87685.7,4165.15,10379007,3385528,6993479,7.84,Flawed democracy
+Qatar,State of Qatar,Western Asia,Asia,25.5,51.25,10591.2,678.053,2695122,18381,2676741,3.19,Authoritarian
+Romania,Romania,Eastern Europe,Europe,46.0,25.0,229906.0,5124.83,18956666,8627368,10329298,6.38,Flawed democracy
+Russia,Russian Federation,Eastern Europe,Europe,60.0,100.0,16224200.0,52887.0,143555736,35708054,107847682,2.94,Authoritarian
+Rwanda,Republic of Rwanda,Eastern Africa,Africa,-2.0,30.0,22337.3,1506.23,13776698,11335329,2441369,3.35,Authoritarian
+Samoa,Samoa,Polynesia,Oceania,-13.58333333,-172.33333333,2817.36,46.6826,222382,183207,39175,0.0,Unknown
+San Marino,Republic of San Marino,Southern Europe,Europe,43.76666666,12.41666666,36.0005,22.0137,33660,763,32897,0.0,Unknown
+São Tomé and Principe,Democratic Republic of São Tomé and Principe,Middle Africa,Africa,1.0,7.0,994.166,10.2501,227380,55128,172252,0.0,Unknown
+Saudi Arabia,Kingdom of Saudi Arabia,Western Asia,Asia,25.0,45.0,1908960.0,7756.63,36408820,5559991,30848829,1.93,Authoritarian
+Senegal,Republic of Senegal,Western Africa,Africa,14.0,-14.0,194449.0,1566.4,17316449,8816497,8499952,6.15,Flawed democracy
+Serbia,Republic of Serbia,Southern Europe,Europe,44.0,21.0,74452.6,2323.39,6760087,2915423,3844664,6.41,Flawed democracy
+Seychelles,Republic of Seychelles,Eastern Africa,Africa,-4.58333333,55.66666666,475.174,13.3675,100060,41629,58431,0.0,Unknown
+Sierra Leone,Republic of Sierra Leone,Western Africa,Africa,8.5,-11.5,71910.8,713.581,8605718,4833746,3771972,4.66,Hybrid regime
+Singapore,Republic of Singapore,South-Eastern Asia,Asia,1.36666666,103.8,210.163,454.084,5637022,0,5637022,6.38,Flawed democracy
+Slovak Republic,Slovak Republic,Eastern Europe,Europe,48.66666666,19.5,46876.4,1805.39,5431752,2503549,2928203,7.1,Flawed democracy
+Slovenia,Republic of Slovenia,Southern Europe,Europe,46.11666666,14.81666666,19401.5,804.812,2108732,933093,1175639,7.5,Flawed democracy
+Solomon Islands,Solomon Islands,Melanesia,Oceania,-8.0,159.0,28414.5,37.8335,724273,538975,185298,0.0,Unknown
+Somalia,Somali Democratic Republic,Eastern Africa,Africa,10.0,49.0,635102.0,1451.27,17597511,9269665,8327846,0.0,Unknown
+South Africa,Republic of South Africa,Southern Africa,Africa,-29.0,24.0,1204430.0,15118.7,59893885,18965399,40928486,7.24,Flawed democracy
+South Sudan,Republic of South Sudan,Middle Africa,Africa,7.0,30.0,623625.0,666.355,10913164,8638206,2274958,0.0,Unknown
+Spain,Kingdom of Spain,Southern Europe,Europe,40.0,-4.0,488926.0,15655.1,47615034,8902107,38712927,8.08,Full democracy
+Sri Lanka,Democratic Socialist Republic of Sri Lanka,Southern Asia,Asia,7.0,81.0,61386.1,3627.83,22181000,17960843,4220157,6.19,Flawed democracy
+St. Kitts and Nevis,St. Kitts and Nevis,Caribbean,Americas,17.33333333,-62.75,253.87,11.7396,47657,32888,14769,0.0,Unknown
+St. Lucia,St. Lucia,Caribbean,Americas,13.88333333,-60.96666666,544.616,72.5737,179857,145594,34263,0.0,Unknown
+St. Vincent and the Grenadines,St. Vincent and the Grenadines,Caribbean,Americas,13.25,-61.2,329.127,68.7626,103948,47946,56002,0.0,Unknown
+Sudan,Republic of the Sudan,Northern Africa,Africa,15.0,30.0,1859900.0,3789.64,46874204,30020115,16854089,2.15,Authoritarian
+Suriname,Republic of Suriname,South America,Americas,4.0,-56.0,145003.0,261.395,618040,208236,409804,6.98,Flawed democracy
+Sweden,Kingdom of Sweden,Northern Europe,Europe,62.0,15.0,411134.0,4064.23,10486941,1206837,9280104,9.39,Full democracy
+Switzerland,Switzerland,Western Europe,Europe,47.0,8.0,34763.6,4016.82,8769741,2272064,6497677,9.03,Full democracy
+Syrian Arab Republic,Syrian Arab Republic,Western Asia,Asia,35.0,38.0,180423.0,5092.25,22125249,9564966,12560283,1.43,Authoritarian
+Tajikistan,Republic of Tajikistan,Central Asia,Asia,39.0,71.0,134045.0,3745.36,9952787,7169192,2783595,1.93,Authoritarian
+Tanzania,United Republic of Tanzania,Eastern Africa,Africa,-6.0,35.0,880726.0,5282.87,65497748,41471864,24025884,5.41,Hybrid regime
+Thailand,Kingdom of Thailand,South-Eastern Asia,Asia,15.0,100.0,491892.0,19506.7,71697030,33777188,37919842,4.63,Hybrid regime
+The Bahamas,Commonwealth of The Bahamas,Caribbean,Americas,24.25,-76.0,12279.9,203.744,409984,67680,342304,0.0,Unknown
+The Gambia,Republic of The Gambia,Western Africa,Africa,13.46666666,-16.56666666,10197.8,338.749,2705992,978162,1727830,4.31,Hybrid regime
+Timor-Leste,Democratic Republic of Timor-Leste,South-Eastern Asia,Asia,-8.83333333,125.91666666,14909.7,74.4718,1341296,911089,430207,7.19,Flawed democracy
+Togo,Republic of Togo,Western Africa,Africa,8.0,1.16666666,56198.5,895.221,8848699,4962262,3886437,3.1,Authoritarian
+Tonga,Kingdom of Tonga,Polynesia,Oceania,-20.0,-175.0,701.786,29.6473,106858,82147,24711,0.0,Unknown
+Trinidad and Tobago,Republic of Trinidad and Tobago,Caribbean,Americas,11.0,-61.0,4364.44,812.961,1531044,714385,816659,7.16,Flawed democracy
+Tunisia,Republic of Tunisia,Northern Africa,Africa,34.0,9.0,151133.0,2877.95,12356117,3680393,8675724,6.41,Flawed democracy
+Turkey,Republic of Turkey,Western Asia,Asia,39.0,35.0,754925.0,15460.7,85341241,19609710,65731531,4.37,Hybrid regime
+Turkmenistan,Turkmenistan,Central Asia,Asia,40.0,60.0,463258.0,2004.62,6430770,2990694,3440076,1.72,Authoritarian
+Tuvalu,Tuvalu,Polynesia,Oceania,-8.0,178.0,39.0978,0.0,11312,3900,7412,0.0,Unknown
+Uganda,Republic of Uganda,Eastern Africa,Africa,1.0,32.0,201995.0,3854.12,47249585,34889566,12360019,5.2,Hybrid regime
+Ukraine,Ukraine,Eastern Europe,Europe,49.0,32.0,569710.0,16271.3,38000000,11430780,26569220,5.69,Hybrid regime
+United Arab Emirates,United Arab Emirates,Western Asia,Asia,24.0,54.0,77233.3,2263.1,9441129,1176081,8265048,2.76,Authoritarian
+United Kingdom,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,54.0,-2.0,218903.0,22676.0,66971411,10448880,56522531,8.53,Full democracy
+United States,United States of America,Northern America,Americas,38.0,-97.0,8903100.0,186573.0,333287557,56378923,276908634,7.96,Flawed democracy
+Uruguay,Oriental Republic of Uruguay,South America,Americas,-33.0,-56.0,173707.0,1017.87,3422794,147591,3275203,8.38,Full democracy
+Uzbekistan,Republic of Uzbekistan,Central Asia,Asia,41.0,64.0,412602.0,15432.2,35648100,17657930,17990170,2.01,Authoritarian
+Vanuatu,Republic of Vanuatu,Melanesia,Oceania,-16.0,167.0,12337.6,27.9429,326740,242389,84351,0.0,Unknown
+Venezuela,República Bolivariana de Venezuela,South America,Americas,8.0,-66.0,899029.0,6248.97,28301696,3289223,25012473,3.16,Authoritarian
+Vietnam,Socialist Republic of Vietnam,South-Eastern Asia,Asia,16.16666666,107.83333333,297627.0,28615.4,98186856,60123739,38063117,3.08,Authoritarian
+West Bank and Gaza,West Bank and Gaza,Western Asia,Asia,31.9,35.2,4390.87,1629.72,5043612,1145354,3898258,4.39,Hybrid regime
+Yemen,Republic of Yemen,Western Asia,Asia,15.0,48.0,452881.0,1795.36,33696614,20491585,13205029,1.95,Authoritarian
+Zambia,Republic of Zambia,Eastern Africa,Africa,-15.0,30.0,740140.0,2079.14,20017675,10857387,9160288,5.61,Hybrid regime
+Zimbabwe,Republic of Zimbabwe,Eastern Africa,Africa,-20.0,30.0,386236.0,2024.49,16320537,11033499,5287038,3.16,Authoritarian
